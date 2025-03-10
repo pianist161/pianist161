@@ -1,7 +1,7 @@
 # Maksim Arsholoev  
 ### ✨ Frontend Developer | 4+ Years Crafting Awesome Web Experiences ✨  
 📍 **Chicago, IL, USA** | ✉️ **arsholoevmaksim@gmail.com**  
-🔗 [LinkedIn]([#](https://www.linkedin.com/in/arsholoevmaksim/)) | 🔗 [GitHub](#)  
+🔗 [LinkedIn]([https://www.linkedin.com/in/arsholoevmaksim/)] | 🔗 [GitHub](#)  
 
 ---
 
@@ -50,4 +50,4 @@ I’m all about turning complex problems into **simple, elegant solutions**. Whe
 
 ---
 
-*✨ Pro Tip: Link my [LinkedIn]([#](https://www.linkedin.com/in/arsholoevmaksim/)) and [GitHub](#) above with my actual profiles to see more of my work!*
+*✨ Pro Tip: Link my [LinkedIn]([https://www.linkedin.com/in/arsholoevmaksim/)]) and [GitHub](#) above with my actual profiles to see more of my work!*
