@@ -6,7 +6,7 @@
 ---
 
 ## 🚀 About Me  
-Hi! I'm a self-taught **Frontend Developer** with over **2 years** of hands-on experience building sleek, accessible, and high-performance web interfaces. I specialize in **React**, **TypeScript**, and API integrations—and recently, I’ve been building apps enhanced with **AI-driven features** using OpenRouter and OpenAI.  
+Hi! I'm a self-taught **Frontend Developer** with over **3 years** of hands-on experience building sleek, accessible, and high-performance web interfaces. I specialize in **React**, **TypeScript**, and API integrations—and recently, I’ve been building apps enhanced with **AI-driven features** using OpenRouter and OpenAI.  
 
 I love turning ideas into smooth, engaging UI experiences. Currently based in the U.S. and **authorized to work without sponsorship**.
 
